@@ -29,7 +29,7 @@
 
 ### Решение
 
-Настройки ранера в развернутом гитлаб:
+###Настройки ранера в развернутом гитлаб:
 ![alt text](https://github.com/olerakon/gitlab-hw/blob/main/img/1.png)
 ![alt text](https://github.com/olerakon/gitlab-hw/blob/main/img/2.png)
 ---
